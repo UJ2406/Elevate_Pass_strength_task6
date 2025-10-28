@@ -117,10 +117,10 @@ password-strength-task6/
 ├── README.md                 # This file
 ├── findings.txt              # Test results summary
 ├── screenshots/
-   ├── im1.jpg
-   ├── im2.jpg
-   ├── im3.jpg
-   ├── im4.jpg
-   ├── im5.jpg
+   ├── im1.png
+   ├── im2.png
+   ├── im3.png
+   ├── im4.png
+   ├── im5.png
 
 ```
