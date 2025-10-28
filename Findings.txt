@@ -1,0 +1,51 @@
+Findings
+===============================================
+
+Five passwords of varying complexity were created and tested using the "How Secure Is My Password?" online tool.
+Results included crack time estimation and visual feedback indicating the relative strength of each password.
+
+Passwords Tested:
+-----------------
+
+1. 12345678
+   - Crack Time: Instantly
+   - Feedback: Extremely weak, common password. Vulnerable to instant brute-force/dictionary attacks.
+   - Screenshot: image.jpg (1st)
+
+2. Password
+   - Crack Time: Instantly
+   - Feedback: Weak, based on dictionary word and commonly used password.
+   - Screenshot: image.jpg (2nd)
+
+3. Elevate_Cyber@123
+   - Crack Time: 3 hundred quadrillion years
+   - Feedback: Strong, contains uppercase, lowercase, numbers, symbols, and good length.
+   - Screenshot: image.jpg (3rd)
+
+4. Pass89236
+   - Crack Time: 3 days
+   - Feedback: Better than basic, includes numbers, but pattern and length still make it crackable in a few days.
+   - Screenshot: image.jpg (4th)
+
+5. Br!ll!@nt
+   - Crack Time: 17 years
+   - Feedback: Medium-strong; uses symbols and varied capitalization, but could be further improved by lengthening and avoiding dictionary roots.
+   - Screenshot: image.jpg (5th)
+
+Key Observations:
+-----------------
+- Very short/simple/common passwords can be cracked instantly by automated attacks.
+- Adding length, numbers, mixed case, and especially symbols increases crack time exponentially.
+- Uncommon words or passphrases with random elements performed best.
+- “Password” and numeric patterns (`12345678`) were the weakest and flagged as dangerous by the tool.
+- Even some 8-10 character passwords are no longer sufficiently “strong” if they use dictionary roots or simple patterns.
+
+Best Practices (Based on Results):
+----------------------------------
+- Use long passwords (12+ characters where possible)
+- Mix uppercase, lowercase, numbers, and symbols
+- Avoid dictionary words, predictable patterns, or repeat use
+- Consider passphrases or random word combinations for high security
+- Use password managers for truly random, unique passwords per account
+
+End of findings.
